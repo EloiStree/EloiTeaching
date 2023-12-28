@@ -315,7 +315,10 @@ Now that cool but would not be better if you could just use it for any game and 
 
 
 
+----------------------
 
+I need to install the runtime for my bot application on other PC:
+https://dotnet.microsoft.com/en-us/download/dotnet/3.1/runtime?cid=getdotnetcore&os=windows&arch=x64
 
 
 
@@ -328,3 +331,4 @@ https://www.autohotkey.com/docs/v1/misc/SendMessageList.htm
 Source djallfredo: 
 - OSRS 
 - https://www.jetbrains.com/pycharm/
+- https://github.com/seatgeek/thefuzz
