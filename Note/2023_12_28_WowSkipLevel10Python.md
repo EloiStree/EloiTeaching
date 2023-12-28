@@ -318,5 +318,13 @@ Now that cool but would not be better if you could just use it for any game and 
 
 
 
+
+
 ---
 https://www.autohotkey.com/docs/v1/misc/SendMessageList.htm
+
+
+
+Source djallfredo: 
+- OSRS 
+- https://www.jetbrains.com/pycharm/
